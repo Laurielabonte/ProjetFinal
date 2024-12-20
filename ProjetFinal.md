@@ -81,7 +81,7 @@ donné «Kaggle».
 #### Première étape:
 
 Tout d’abord, nous allons limiter notre base de donnée sur les crimes
-ayant eu lieu entre 2010 et 2019.
+ayant eu lieu entre 2010 et 2019. Nos deux bases de données contenaient ces dates et elles sont relativement récente
 
     ## # A tibble: 65,863 × 2
     ##    DATA_YEAR STATE_ABBR
